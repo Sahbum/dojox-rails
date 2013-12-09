@@ -115,7 +115,7 @@ _18=parseInt(_18,10)+2;
 }else{
 var _19=_14.parentNode;
 var _1a=-100000;
-while(_19&&_19!==_c.body()&&_14!==_c.body()){
+while(_19&&_19!==_c.body()){
 zi=_a.get(_19,"zIndex");
 if(!zi||zi==="auto"){
 _19=_19.parentNode;
